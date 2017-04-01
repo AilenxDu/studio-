@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-export SYSTEM "http://xml.evernote.com/pub/evernote-export2.dtd">
+<en-export export-date="20151127T002703Z" application="Evernote/Windows" version="5.x">
+<note><title>00_Studio快捷键</title><content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+
+<en-note style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;">
+向下复制一行(Duplicate Lines) : ctrl+down<br/>
+向下开始新的一行(Start New Line) shift+enter<br/>
+向上开始新的一行(Start New Line before current) ctrl+shift+enter<br/>
+提示补全(Class Name Completion) : ctrl+/<br/>
+万能解错 : alt + enter<br/>
+关闭展开的窗口栏 : shift+esc<br/>
+最近打开过的文件(Recent Files) : Ctrl+E<br/>
+打开Module setting窗口 : ctrl+shift+E<br/>
+查找某个类: ctrl+shift+T<br/>
+查找文件: double Shift<br/><br/>
+查看类继承关系 F4<br/>
+查看文档说明 F2<br/>
+查看类的结构 ctrl+O<br/>
+运行当前的应用: Alt+Shift+X<br/>
+单选注释 : ctrl + /<br/>
+多行注释 : ctrl + shift + /<br/>
+修改变量名与方法名 : alt+shift+R<br/>
+查看应用中哪些变量或方法没有被使用(Inspect Code with Editor Settings) : alt+sift+A<br/><div><br/></div><div><br/></div><div><br/></div><div><br/></div><div><br/></div><div><br/></div></en-note>]]></content><created>20151127T002555Z</created><updated>20151127T002616Z</updated></note></en-export>

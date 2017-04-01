@@ -1,0 +1,3 @@
+Android Layout ID Converter
+
+$resId$ = $cast$ findViewById(R.id.$resId$);

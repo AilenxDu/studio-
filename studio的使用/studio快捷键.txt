@@ -1,0 +1,28 @@
+向下复制一行(Duplicate Lines) : ctrl+down
+向下开始新的一行(Start New Line) shift+enter
+向上开始新的一行(Start New Line before current) ctrl+shift+enter
+提示补全(Class Name Completion) : alt+/
+万能解错 : alt + enter
+关闭展开的窗口栏 : shift+esc
+最近打开过的文件(Recent Files) : Ctrl+E
+打开Module setting窗口 : ctrl+shift+E
+查找某个类: ctrl+shift+T
+查找文件: double Shift
+
+查看类继承关系 F4
+查看文档说明 F2
+查看类的结构 ctrl+O
+运行当前的应用: Alt+Shift+X
+单选注释 : ctrl + /
+多行注释 : ctrl + shift + /
+修改变量名与方法名 : alt+shift+R
+查看应用中哪些变量或方法没有被使用(Inspect Code with Editor Settings) : alt+sift+A
+
+
+
+
+匹配大小写模糊查询：
+在设置-->Editor-->General-->Code Completion设置Case sensitive completion:为null;
+
+
+shift+tab:改变类型

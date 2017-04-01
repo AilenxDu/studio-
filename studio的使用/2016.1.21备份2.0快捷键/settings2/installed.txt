@@ -1,0 +1,3 @@
+GsonFormat
+com.genymotion.idea
+eu.inmite.android.plugin.butterknifezelezny
