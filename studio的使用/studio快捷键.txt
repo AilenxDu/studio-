@@ -26,3 +26,5 @@
 
 
 shift+tab:改变类型
+
+Ctrl + Shift + / :多行注释
